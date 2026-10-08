@@ -1,4 +1,7 @@
 # Wasabi Research Experience
+
+Research meetings organized by [Ádám Ficsór (nopara73)](https://adamficsor.com/work.html).
+
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
 - When? Every Monday 16:00 UTC
 - Where? https://meet.zksnacks.com/research
